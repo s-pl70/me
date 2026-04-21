@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant, University of Alberta"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Cox' Bazar International University, Department of English"
-date: 2021-09-13 - 2022-01-18
-location: "Cox's bazar, Bangladesh"
+venue: "Tory Building, North Campus, University of ALberta"
+date: 2025-09-02 - 2025-12-31
+location: "Edmonton, Alberta, Canada, "
 ---
 
 
+Served as a Teaching Assistant during the Fall 2025 and Winter 2026 semesters at the University of Alberta. 
 
-Heading 1
-======
+**"Course name - "MST 100 - Introduction to Media Studies"**
 
-Heading 2
-======
+**Responsibilities:** - 
 
-Heading 3
-======
+- "Led weekly discussion sections for undergraduate students"
+- "Graded assignments"
+- "Provided critical feedback on their assignements, presentations, term papers"
+- "Helped students navigate within the course website and contents"
+- "Maintained close communication with students to support their learning"
