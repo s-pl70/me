@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Graduate Research Asssistant, University of Alberta"
 collection: teaching
-type: "Workshop"
+type: "Graduate Research Assistantship"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Tory Building, North Campus, University of Alberta"
+date: 2026-01-16 - 2026-04-30
+location: "Edmonton, Alberta, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as a Research Assistant during Winter 2026 semester at the University of Alberta, contributing to projects in prompt engineering, and large language model (LLM) applications.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+**Responsibilities:**
+- Conducted a literature review on prompt engineering and its applications
+- Contributed to the development of a Social RAG (Retrieval-Augmented Generation) project, providing iterative feedback and evaluation
+- Designed and authored a prompt guide to help users craft more effective prompts for LLMs
