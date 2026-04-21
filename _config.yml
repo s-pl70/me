@@ -12,7 +12,9 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Shreyashi Paul"
 title_separator          : "-"
 name                     : &name "Shreyashi Paul"
-description              : &description "Student and Game Designer"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Student and Game Designer"   #"Shreyashi Paul is currently in her second semester of Master of Digital Humanities at University of Alberta. She has completed a Bachelor of Arts in English Language and Literature and another Master of Arts in English Language Teaching (ELT) from Premier University, Chattogram, Bangladesh. Her undergraduate focuses were fiction and non-fiction reading and writing, and master’s focused on theoretical and practical teaching of Second Language Acquisition (SLA)." 
+"Shreyashi is passionate about reading books and loves to explore a new genre every other day. She has been a teaching assistant and research assistant in her first fall and winter semesters in University of Alberta. She loves to design games, build websites, and write poems, projects and everything in between." 
+
 url                      : https://s-pl70.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/me" # the subpath of your site, e.g. "/blog"
@@ -26,9 +28,7 @@ author:
   avatar           : "profile.png"
   name             : 
   pronouns         : "she/her"  
-  bio              : "Shreyashi Paul is currently in her second semester of Master of Digital Humanities at University of Alberta. She has completed a Bachelor of Arts in English Language and Literature and another Master of Arts in English Language Teaching (ELT) from Premier University, Chattogram, Bangladesh. Her undergraduate focuses were fiction and non-fiction reading and writing, and master’s focused on theoretical and practical teaching of Second Language Acquisition (SLA). 
-Shreyashi is passionate about reading books and loves to explore a new genre every other day. She has been a teaching assistant and research assistant in her first fall and winter semesters in University of Alberta. She loves to design games, build websites, and write poems, projects and everything in between. 
-"
+  bio              : "Shreyashi Paul is a Student of Master of Arts in Digital Humanities at University of ALberta. She is interested in digital storytelling, Python & R languages, data cleaning, analysis and manipulation."
   location         : "North Campus, University of Alberta"
   employer         : "University of Alberta"
   uri              : "https://github.com/s-pl70"
