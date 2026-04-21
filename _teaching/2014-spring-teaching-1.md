@@ -1,7 +1,7 @@
 ---
-title: "Graduate Teaching Assistant, University of Alberta"
+title: "Teaching Assistant, University of Alberta"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate Teaching Assistantship"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Tory Building, North Campus, University of ALberta"
 date: 2025-09-02 - 2025-12-31
