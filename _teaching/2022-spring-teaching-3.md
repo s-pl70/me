@@ -1,5 +1,5 @@
 
----
+
 <table>
   <tr><th>title</th><th>Lecturer, Premier University</th></tr>
   <tr><td>collection</td><td>teaching</td></tr>
@@ -10,7 +10,7 @@
   <tr><td>location</td><td>Chattogram, Bangladesh</td></tr>
   
 </table>
----
+
 
 --- Served as a faculty from 2022 to 2025, Julyt semesters at Premier University. 
 
