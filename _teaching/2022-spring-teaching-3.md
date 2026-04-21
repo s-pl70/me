@@ -1,15 +1,16 @@
 
 ---
-title: "Lecturer, Premier University"
-collection: teaching
-type: "Faculty" 
-permalink: /teaching/2015-spring-teaching-1
-venue: "Premier University, Department of CSE" 
-date: 2022-09-13 - 2025-07-31 
-location: "Chattogram, Bangladesh"
+<table>
+  <tr><th>title</th><th>Lecturer, Premier University</th></tr>
+  <tr><td>collection</td><td>teaching</td></tr>
+  <tr><td>type</td><td>Faculty</td></tr>
+  <tr><th>permalink</th><th>/teaching/2015-spring-teaching-1</th></tr>
+  <tr><td>venue</td><td>Premier University, Department of CSE</td></tr>
+  <tr><td>date</td><td>2022-09-13 - 2025-07-31</td></tr>
+  <tr><td>location</td><td>Chattogram, Bangladesh</td></tr>
+  
+</table>
 ---
-
-
 
 --- Served as a faculty from 2022 to 2025, Julyt semesters at Premier University. 
 
