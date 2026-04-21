@@ -24,14 +24,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : 
   pronouns         : "she/her"  
   bio              : "Shreyashi Paul is currently in her second semester of Master of Digital Humanities at University of Alberta. She has completed a Bachelor of Arts in English Language and Literature and another Master of Arts in English Language Teaching (ELT) from Premier University, Chattogram, Bangladesh. Her undergraduate focuses were fiction and non-fiction reading and writing, and master’s focused on theoretical and practical teaching of Second Language Acquisition (SLA). 
 Shreyashi is passionate about reading books and loves to explore a new genre every other day. She has been a teaching assistant and research assistant in her first fall and winter semesters in University of Alberta. She loves to design games, build websites, and write poems, projects and everything in between. 
 "
   location         : "North Campus, University of Alberta"
   employer         : "University of Alberta"
-  uri              :  https://github.com/s-pl70
+  uri              : "https://github.com/s-pl70"
   email            : "shreyashicox@gmail.com" 
 
   # Academic websites
@@ -44,7 +44,7 @@ Shreyashi is passionate about reading books and loves to explore a new genre eve
   semantic         : 
   ssrn             : 
   pubmed           : 
-  researchgate     : https://www.researchgate.net/profile/Shreyashi-Paul-2/research
+  researchgate     : "https://www.researchgate.net/profile/Shreyashi-Paul-2/research"
   scopus           : 
   zotero           :
 
@@ -53,45 +53,39 @@ Shreyashi is passionate about reading books and loves to explore a new genre eve
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : s-pl70
+  github           : "s-pl70"
   kaggle           :   
   stackoverflow    :   
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  artstation       : 
+  bluesky          : 
+  facebook         : 
+  flickr           : 
+  foursquare       : 
+  goodreads        : 
+  google_plus      : 
+  keybase          : 
+  instagram        :
+  lastfm           : 
+  linkedin         : "shreyashi-paul-51393b244"
+  mastodon         : 
+  medium           : 
+  pinterest        : 
+  soundcloud       :
+  steam            :
+  telegram         : 
+  tumblr           : 
+  twitter          : 
+  vine             : 
+  weibo            : 
+  wikipedia        : 
+  xing             : 
+  youtube          : 
+  zhihu            : 
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
