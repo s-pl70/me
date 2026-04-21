@@ -1,11 +1,17 @@
 
 
 **title:** "Lecturer, Premier University" 
+
 **collection:** teaching 
+
 **type:** "Faculty" 
+
 **permalink:** /teaching/2025-fall-ta-ualberta 
+
 **venue:** "Premier University, Department of CSE" 
+
 **date:** 2022-09-13 - 2025-07-31 
+
 **location:**"Chattogram, Bangladesh" 
 
 
