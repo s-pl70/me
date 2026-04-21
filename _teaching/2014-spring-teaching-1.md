@@ -9,7 +9,7 @@ location: "Edmonton, Alberta, Canada, "
 ---
 
 
-Served as a Teaching Assistant during the Fall 2025 and Winter 2026 semesters at the University of Alberta. 
+Served as a Teaching Assistant during the Fall 2025 semester at the University of Alberta. 
 
 **"Course name - "MST 100 - Introduction to Media Studies"**
 
