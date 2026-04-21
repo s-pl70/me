@@ -15,8 +15,8 @@ Served as a Teaching Assistant during the Fall 2025 and Winter 2026 semesters at
 
 **Responsibilities:** - 
 
-- "Led weekly discussion sections for undergraduate students"
-- "Graded assignments"
-- "Provided critical feedback on their assignements, presentations, term papers"
-- "Helped students navigate within the course website and contents"
-- "Maintained close communication with students to support their learning"
+- Led weekly discussion sections for undergraduate students
+- Graded assignments
+- Provided critical, constructive feedback on their assignements, presentations, term papers
+- Helped students navigate within the course website and contents
+- Maintained close communication with students to support their learning
