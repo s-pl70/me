@@ -1,5 +1,5 @@
 ---
-title: "Graduate Research Asssistant, University of Alberta"
+title: "Research Asssistant, University of Alberta"
 collection: teaching
 type: "Graduate Research Assistantship"
 permalink: /teaching/2015-spring-teaching-1
