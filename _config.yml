@@ -25,8 +25,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  sidebar          : "Shreyashi Paul is a student of Master of Arts in Digital Humanities at University of ALberta. She is interested in digital storytelling, Python & R languages, data cleaning, analysis and manipulation."
-  name             : "Shreyashi Paul"
+  name             : "Shreyashi Paul is a student of Master of Arts in Digital Humanities at University of ALberta. She is interested in digital storytelling, Python & R languages, data cleaning, analysis and manipulation."
   pronouns         : "she/her"  
   bio              : "Student and Game Designer at UAlberta"
   location         : "North Campus, University of Alberta"
