@@ -14,4 +14,5 @@ This is the front page of a website that is powered by the [Academic Pages templ
 A data-driven personal website
 ======
 
-
+"Shreyashi Paul is currently in her second semester of Master of Digital Humanities at University of Alberta. She has completed a Bachelor of Arts in English Language and Literature and another Master of Arts in English Language Teaching (ELT) from Premier University, Chattogram, Bangladesh. Her undergraduate focuses were fiction and non-fiction reading and writing, and master’s focused on theoretical and practical teaching of Second Language Acquisition (SLA)." 
+"Shreyashi is passionate about reading books and loves to explore a new genre every other day. She has been a teaching assistant and research assistant in her first fall and winter semesters in University of Alberta. She loves to design games, build websites, and write poems, projects and everything in between." 
