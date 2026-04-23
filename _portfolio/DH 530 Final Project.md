@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "DH 530 Final Project Game"
 link: "https://s-pl70.github.io/the-chosen-life/"
 collection: portfolio
 ---
