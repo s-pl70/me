@@ -2,7 +2,7 @@
 title: "DH 530 Class Assignment Game" 
 excerpt: "The Last Library"
 collection: portfolio
-permalink: /portfolio/dh-530-final-project/
+permalink: /portfolio/class-assignment-cyo/
 ---
 
 An interactive game I created for DH 530. Play it below:
